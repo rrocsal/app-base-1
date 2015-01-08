@@ -1,5 +1,5 @@
 # App-base-1 
-##Material Design for AngularJS Apps [![Build Status](https://travis-ci.org/angular/material.svg)](https://travis-ci.org/angular/material)
+##Gulp assembly Material Design for AngularJS Apps [![Build Status](https://travis-ci.org/angular/material.svg)](https://travis-ci.org/angular/material)
 
 [app-base](https://www.telepark.com.br:8010) is a specification for a
 unified system of material design and angularjs front end composition with action hero based backend API. 
